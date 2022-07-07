@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300&family=Hind+Madurai&family=Inter&family=Literata:opsz,wght@7..72,300&family=M+PLUS+1p&family=Roboto&family=Roboto+Flex:opsz@8..144&family=Source+Sans+Pro:wght@200;300;600&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #2e1e44;
+  color:white;
+}
+.topnav{
+  overflow: hidden;
+  background-color:#8d819e;
+  padding:10px;
+  position: sticky;
+  }
+.topnav a{
+  float:left;
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover{background-color: #fff456; color:black}
+#login{
+  float:right;
+  background-color:#2e1e44;
+  color: #fff456;
+  padding:10px;
+  margin-left:50px;
+}
+#login:hover{background-color: #fff789;color:black;}
+.header{
+  background-color: #6d5991;
+  background-image: linear-gradient(to top, #6d5991, #2e1e44 ); 
+  padding:50px;
+  text-align: center;
+  color: #fff456;
+  height:200px;
+}
+
+.form{
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer{
+  padding:30px;
+  margin-top:40px;
+  background-color: #8d819e;
+  text-align: center;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-whatsapp{
+  background: #21e652;
+  color: white; 
+}
+.fa-gmail{
+  background: #a7371c;
+  color: white;   
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  }
