@@ -1,2 +1,2 @@
-# Perancangan-Web
-Kumpulan hasil latihan/praktikum mata kuliah PPW membuat website
+# Website Gelar Karya Mahasiswa
+Ujian Tengah Semester membuat website dengan tema GKM
